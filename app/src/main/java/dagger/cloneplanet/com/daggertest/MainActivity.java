@@ -13,7 +13,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         txt_helllo=(TextView)findViewById(R.id.txt_helllo);
-        txt_helllo.setText("swapnil");
+        txt_helllo.setText("bhaisare");
+        txt_helllo.setText("branch2");
 
     }
 }

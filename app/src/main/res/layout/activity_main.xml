@@ -11,6 +11,7 @@
     tools:context="dagger.cloneplanet.com.daggertest.MainActivity">
 
     <TextView
+        android:id="@+id/txt_helllo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
